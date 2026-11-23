@@ -10,4 +10,4 @@ Includes SHAP explainability and a Streamlit web application.
 Python | pandas | scikit-learn | XGBoost | SHAP | Streamlit
 
 ## Project Status
-🟡 In Progress — Started June/July 2026
+🟡 Finished — Started June/July 2026
